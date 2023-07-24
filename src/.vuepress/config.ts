@@ -23,7 +23,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Oragekk's Blog",
+      title: "茜茜的博客",
       description: "上冬十二的博客",
     },
   },
