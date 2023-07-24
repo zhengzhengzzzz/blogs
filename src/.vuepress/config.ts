@@ -24,7 +24,7 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "茜茜的博客",
-      description: "上冬十二的博客",
+      description: "茜茜的博客",
     },
   },
   alias: {

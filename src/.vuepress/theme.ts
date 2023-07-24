@@ -8,7 +8,7 @@ export default MyTheme({
   themeColor: true,
   fullscreen: true,
   author: {
-    name: "Oragekk",
+    name: "茜茜",
     url: "https://orgaekk.me",
   },
 
@@ -99,11 +99,8 @@ export default MyTheme({
     },
   },
   plugins: {
-    components:{
-      components:[
-        "VidStack",
-        "BiliBili"
-      ]
+    components: {
+      components: ["VidStack", "BiliBili"],
     },
     blog: {
       filter: ({ filePathRelative, frontmatter }) => {
@@ -124,7 +121,10 @@ export default MyTheme({
       ],
     },
     photoSwipe: {
-      selector: [".theme-hope-content :not(a) > img:not([no-view])",".news-content :not(a) > .vp-article-excerpt img"],
+      selector: [
+        ".theme-hope-content :not(a) > img:not([no-view])",
+        ".news-content :not(a) > .vp-article-excerpt img",
+      ],
     },
     git: true,
     feed: {

@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: Oragekk's Blog
+heroText: Xixi Blog
 bgImage: "/assets/home_bg.jpg"
 heroFullScreen: true
 tagline: Goals determine what you are going to be. —— Julius Erving
